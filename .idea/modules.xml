@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListHeadersRecyclerView.iml" filepath="$PROJECT_DIR$/ListHeadersRecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headersrecycleradapter/headersrecycleradapter.iml" filepath="$PROJECT_DIR$/headersrecycleradapter/headersrecycleradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/headersrecycleradapter/headersrecyclerview.iml" filepath="$PROJECT_DIR$/headersrecycleradapter/headersrecyclerview.iml" />
+    </modules>
+  </component>
+</project>
